@@ -1,2 +1,2 @@
 # Othonormalization
-This is an implementation of orthonormalization while learning pkg development in julia
+This is an implementation of the Gram-Schmidt Othonormalization while learning pkg development in julia
